@@ -22,7 +22,7 @@ containing empty rows, inconsistent data types, extra spaces, and formatting iss
 ```bash
 python -m streamlit run app.py
 
-Features
+## Advantages
 📂 File Upload Support
 
 Upload Excel (.xlsx) and CSV (.csv) files
